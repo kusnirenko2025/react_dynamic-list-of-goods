@@ -1,5 +1,5 @@
 import { Good } from '../types/Good';
-import { getSortedGoods } from '../utilis/getSortedGoods';
+import { getSortedGoods } from '../utils/getSortedGoods';
 
 // eslint-disable-next-line
 const API_URL = `https://mate-academy.github.io/react_dynamic-list-of-goods/goods.json`;
